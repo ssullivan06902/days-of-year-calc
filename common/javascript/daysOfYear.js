@@ -27,7 +27,7 @@ else
 }
 
 numbOfDays = numbOfDays + day;
-
+//test comment
 addEventListener('load', function(e) 
 {
 	document.querySelector('#title').innerHTML = 'Number of Days Currently in ' + year;
